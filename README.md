@@ -1,8 +1,8 @@
-- 👋 Olá, me chamo matheus
+- 👋 Olá, meu nome é Matheus Ghotme, sou programador Jr. na empresa Consórcio servopa
 - 👀 Estou interessado em aprender todo dia
 - 🌱 Atualmente estou aprendendo sobre AWS
 - 💞️ Estou procurando trabalhar em empresas grandes, para agregar valores.
-- 📫 Para me contatar meu telefone é (41) 996357037 - somente whatsapp
+
 <div align="center">
   <a href="https://github.com/nazuki8540">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nazuki8540&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
