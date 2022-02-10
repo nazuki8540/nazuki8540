@@ -1,7 +1,8 @@
-- 👋 Olá, meu nome é Matheus Ghotme, sou programador Jr. na empresa Consórcio servopa
-- 👀 Estou interessado em aprender todo dia
-- 🌱 Atualmente estou aprendendo sobre AWS
-- 💞️ Estou procurando trabalhar em empresas grandes, para agregar valores.
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
+- 👋 Olá, meu nome é Matheus Ghotme, sou programador Jr. na empresa Consórcio servopa<br/>
+- 👀 Estou interessado em aprender todo dia<br/>
+- 🌱 Atualmente estou aprendendo sobre AWS<br/>
+- 💞️ Estou procurando trabalhar em empresas grandes, para agregar valores. <br/>
 
 <div align="center">
   <a href="https://github.com/nazuki8540">
