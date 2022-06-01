@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
-- 👋 Olá, meu nome é Matheus Ghotme, sou programador Jr. na empresa Consórcio servopa<br/>
+- 👋 Olá, meu nome é Matheus Ghotme, sou programador/desenvolvedor - RPA na empresa Consórcio servopa<br/>
 - 👀 Estou interessado em aprender todo dia<br/>
 - 🌱 Sou muito bom em resolver problemas.<br/>
 - 💞️ Estou procurando trabalhar em empresas grandes, para agregar valores e solucionar problemas. <br/><br>
