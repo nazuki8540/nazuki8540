@@ -1,11 +1,11 @@
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
 
-## 🚀 Sobre mim
-
-- 👋 Olá, meu nome é Matheus Ghotme, sou programador/desenvolvedor - RPA na empresa Consórcio servopa<br/>
-- 👀 Estou interessado em aprender todo dia<br/>
-- 🌱 Sou muito bom em resolver problemas.<br/>
-- 💞️ Estou procurando trabalhar em empresas grandes, para agregar valores e solucionar problemas. <br/><br>
+## 🚀 About me
+  
+- 👋 Hi there, my name is Matheus Ghotme, I'm programer/developer - RPA on Servopa's Company here in Brazil<br/>
+- 👀 I'm interested in learn everyday<br/>
+- 🌱 I'm pretty good to resolve problems.<br/>
+- 💞️ I'm looking for work in big companies, to add values to the company and resolve problems. <br/><br>
 
 <div align="center">
   <a href="https://github.com/nazuki8540">
@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazuki8540&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
-  ## 🛠 Habilidades
+  ## 🛠 skills
   
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -30,14 +30,14 @@
 
 <div> 
   <div style="display: inline_block">
-    <br><h2>:computer:Conhecimento de Sistemas Operacionais</h2>
+    <br><h2>:computer:OS Knowledges</h2>
     <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
     <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   </div>
   
   <h2>
     <img align="center" alt="Matheus-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" />
-    Onde me encontrar
+    Where to find me
    </h2>
     <a href="https://www.instagram.com/ghotme_matheus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.facebook.com/nazuki854/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
