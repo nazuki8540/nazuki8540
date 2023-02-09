@@ -2,7 +2,7 @@
 
 ## 🚀 About me
   
-- 👋 Hi there, my name is Matheus Ghotme, I'm programer/developer - RPA on Servopa's Company here in Brazil<br/>
+- 👋 Hi there, my name is Matheus Ghotme, I'm Full Stack PHP developer and RPA Developer on Servopa's Company here in Brazil<br/>
 - 👀 I'm interested in learn everyday<br/>
 - 🌱 I'm pretty good to resolve problems.<br/>
 - 💞️ I'm looking for work in big companies, to add values to the company and resolve problems. <br/><br>
