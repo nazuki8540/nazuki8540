@@ -1,118 +1,23 @@
-# 👋 Hi, I'm Matheus Ghotme
+### Hi there, I'm Matheus! 👋
 
-**Senior Full‑Stack Software Developer**
-PHP • Laravel • Node.js • JavaScript • SQL • CI/CD
+I am a **Senior Software Developer** focused on the **PHP ecosystem**, currently building high-performance ERP systems and scalable solutions. My expertise lies in bridging modern frameworks with complex database environments.
 
-Building scalable backend systems, payment integrations, and full‑stack applications used in production by multiple clients. Open to global opportunities (remote or relocation).
-
----
-
-## 🚀 About Me
-
-I am a Senior Software Developer with strong experience in **backend and full‑stack development**, working on complex, multi‑tenant systems for healthcare, payments, and business management platforms.
-
-I enjoy turning complex business rules into clean, maintainable code and automating delivery pipelines to improve reliability and speed.
-
-**What I do best:**
-
-* Design and implement REST APIs and backend services
-* Build secure authentication and payment flows
-* Work with complex relational databases
-* Automate CI/CD pipelines and deployments
-* Collaborate with product, QA, and support teams
+- 🔭 **I’m currently working on:** A complete **ERP System** and a Financial Investment Tracker (Laravel + Vue.js).
+- 🏗️ **Architecture:** I specialize in systems that serve multiple clients using diverse database engines (Firebird, SQL Server, Oracle).
+- ☁️ **Cloud:** Experienced in deploying and managing applications on **AWS**.
+- 🌱 **I’m currently learning:** Deepening my Vue.js skills and improving my French 🇫🇷 for future relocation to Canada 🇨🇦.
 
 ---
 
-## 🛠 Tech Stack
+### 🛠️ Tech Stack
 
-### Backend
+**Backend & Architecture:**
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 
-* PHP (Laravel)
-* Node.js
-* REST APIs
-* Authentication & Authorization
-
-### Frontend
-
-* JavaScript
-* Vue.js / Angular
-* HTML5, CSS3
-
-### Databases
-
-* SQL Server
-* MySQL
-* Firebird
-
-### DevOps & Tools
-
-* Git & GitHub
-* GitHub Actions (CI/CD)
-* Docker (basic usage)
-* Linux & Windows servers
+**Frontend:**
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
 
 ---
 
-## ⭐ Featured Projects
-
-> A selection of projects that reflect real‑world usage, production scenarios, and architectural decisions.
-
-### 🔹 Nexa ERP (Business Management System)
-
-**Description:** Modular ERP platform designed for multiple industries (workshops, clinics, service companies).
-
-* Tech: PHP, Laravel, SQL Server
-* Features: Authentication, role‑based access, billing, reporting
-* Status: In active development
-
----
-
-### 🔹 Payment Gateway Integrations
-
-**Description:** Integrations with multiple Brazilian payment providers, supporting recurring payments, Pix, credit cards, and webhooks.
-
-* Providers: ASAAS, Cielo, Banco do Brasil, Pagar.me
-* Features: Webhooks, recurring billing, boleto carnê, Pix flows
-* Tech: PHP, REST APIs
-
----
-
-### 🔹 CI/CD Automation with GitHub Actions
-
-**Description:** Automated build and deployment pipelines for multi‑environment systems.
-
-* Environments: Development, Staging, Production
-* Features: Branch‑based deploy, secrets management, SFTP deploy
-* Tech: GitHub Actions, Bash
-
----
-
-## 📈 Professional Highlights
-
-* 8+ years working with production systems
-* Experience maintaining systems used by thousands of users
-* Strong focus on code quality, stability, and documentation
-* Used to working with legacy code and modern stacks together
-
----
-
-## 🌍 Languages
-
-* Portuguese: Native
-* English: Professional working proficiency
-
----
-
-## 📫 Contact
-
-* GitHub: [https://github.com/nazuki8540](https://github.com/nazuki8540)
-* LinkedIn: (add your LinkedIn URL here)
-* Email: (add your professional email here)
-
----
-
-## 📄 Philosophy
-
-> *"Good software is built with clarity, consistency, and respect for those who will maintain it."*
-
-Always learning, always improving.
+### 📫 Let's Connect
+*Open to opportunities worldwide, with a special interest in Canadian tech companies.*
